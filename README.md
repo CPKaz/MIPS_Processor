@@ -1,2 +1,2 @@
 # MIPS_Processor
-This C++ code emulates several versions of a MIPS processor, from a simple single cycle processor, to an Out-of-Order  Superscalar Processor
+This C++ code emulates two versions of a MIPS processor, both found in processor.cpp. The first is a single-cycle processor, and the second is a five stage pipeline processor.
